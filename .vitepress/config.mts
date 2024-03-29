@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Atelier 16",
   description: "Documentation de l'atelier 16",
+  base: '/appweb-exer16/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
