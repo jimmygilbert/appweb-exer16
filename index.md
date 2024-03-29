@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Atelier 16"
-  text: "Documentation de l'atelier 16"
+  text: "Doc de l'atelier 16"
   tagline: My great project tagline
   actions:
     - theme: brand
